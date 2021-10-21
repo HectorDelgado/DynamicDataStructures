@@ -22,7 +22,7 @@ pod 'DynamicDataStructures'
 
 ## Author
 
-HectorDelgado, Hector.d.delgado@gmail.com
+Hector Delgado, Hector.d.delgado@gmail.com
 
 ## License
 

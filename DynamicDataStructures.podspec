@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'DynamicDataStructures'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Various dynamic data structures in Swift.'
   s.swift_version    = '5.3'
 
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/HectorDelgado/DynamicDataStructures'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'HectorDelgado' => 'Hector.d.delgado@gmail.com' }
+  s.author           = { 'Hector Delgado' => 'Hector.d.delgado@gmail.com' }
   s.source           = { :git => 'https://github.com/HectorDelgado/DynamicDataStructures.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
