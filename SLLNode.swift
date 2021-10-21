@@ -4,7 +4,6 @@
 //
 //  Created by Hector Delgado on 10/20/21.
 //
-
 import Foundation
 
 final class SLLNode<T: Equatable> {
