@@ -7,12 +7,19 @@
 //
 
 import UIKit
+import DynamicDataStructures
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        
+        var sll = SinglyLinkedList<String>()
+        sll.append("Donatello")
+        sll.append("Michelangelo")
+        sll.push("Raphael")
+        sll.push("Leonardo")
+        print(sll)
     }
 
     override func didReceiveMemoryWarning() {
